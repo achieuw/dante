@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Exit
+  - Coin
+  - Hellfire
+  - Checkpoint
+  - Enemy
+  - CheckpointFlag
+  - Transition
+  - Enemies
+  - FreezeCooldownText
+  - FlyingEnemy
+  - SeelingGoo
+  - FireDude
+  - Bloodpool
+  - SeelingEnemy
+  - BloodSplash
+  - FireDudeFlame
+  - FireDudeShot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Hellfire
+  - Bloodpool
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4130286115
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: See-ling
+    uniqueID: 1957085263
+    locked: 0
+  - name: Platform
+    uniqueID: 94736025
+    locked: 0
+  - name: OnPlatform
+    uniqueID: 1828464581
+    locked: 0
+  - name: Player
+    uniqueID: 2525542553
+    locked: 0
+  - name: Enemy
+    uniqueID: 1297202279
+    locked: 0
+  - name: Hellfire
+    uniqueID: 580185701
+    locked: 0
+  - name: UI
+    uniqueID: 645118907
+    locked: 0
